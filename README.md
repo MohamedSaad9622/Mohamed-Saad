@@ -74,6 +74,6 @@
 
 ### :fire: My Repositories:
 
-👕 Megamart -> E-Commerce application that's based on Shopify API. We designed this app to provide our customers with all functionality and features they will need with the simplest UI to make them have fun shopping in our application.
+👕 '#00a8ff'Megamart -> '#ffffff' E-Commerce application that's based on Shopify API. We designed this app to provide our customers with all functionality and features they will need with the simplest UI to make them have fun shopping in our application.
 
 ⚽️ Sports-App -> Mobile application that views all sports in a specific country. Users can choose their favorite leagues from various sports and various countries. Users can see all upcoming events , results and teams in their favorite leagues. Every team in any league has its own details like stadium , badge , jersey , description , players and all social media platforms like its own website , facebook , instagram and twitter accounts.
