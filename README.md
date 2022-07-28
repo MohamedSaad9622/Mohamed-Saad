@@ -41,5 +41,8 @@
   <img src="https://linuxnewbieguide.org/wp-content/uploads/2017/03/github-logo.png" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
   <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/70/04/f2/7004f2e7-5a89-4d71-22e4-016c6a8594c1/Xcode-85-220-0-4-2x.png/1200x630bb.png" title="xcode" alt="xcode" width="60" height="60"/>&nbsp;
   <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" title="firebase" alt="firebase" width="60" height="60"/>&nbsp;
+  <img src="https://www.techasoft.com/debug/img/unittesting.png" title="unit testing" alt="unit testing" width="60" height="60"/>&nbsp;
+  <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/8825/syPOR0YTxuwPEUrfe4NX" title="cocoapods" alt="cocoapods" width="60" height="60"/>&nbsp;
+  <img src="https://assets.website-files.com/5ffa05c4703955241d53a29d/6006fdf808a3371bbd02c5a3_cdlogo.png" title="core data" alt="core data" width="60" height="60"/>&nbsp;
 </div>
 
