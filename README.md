@@ -18,6 +18,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ---
 
 ### :man_technologist: About Me : 
@@ -48,7 +52,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: Mohamed Saad'S GitHub Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedSaad9622&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
