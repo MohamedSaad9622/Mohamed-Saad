@@ -5,8 +5,12 @@
     <a href="https://www.linkedin.com/in/mohamed-saad-aboasal/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=mohamedsaad9622&style=flat-square&color=blue" alt="30"/>
   </div>
+  
+  <h1>
+    hey there
+    <img src="https://komarev.com/ghpvc/?username=mohamedsaad9622&style=flat-square&color=blue" alt="30"/>
+  </h1>
   
   <h1>
     hey there
