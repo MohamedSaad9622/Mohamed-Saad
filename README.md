@@ -49,6 +49,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MohamedSaad9622&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<h1>
+</h1>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedSaad9622&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
@@ -58,6 +61,9 @@
 
 👕 [Megamart](https://github.com/MohamedSaad9622/Megamart) -> E-Commerce application that's based on Shopify API. We designed this app to provide our customers with all functionality and features they will need with the simplest UI to make them have fun shopping in our application.
 
+<h1>
+</h1>
+
 ⚽️ [Sports App](https://github.com/MohamedSaad9622/Sports-App) -> Mobile application that views all sports in a specific country. Users can choose their favorite leagues from various sports and various countries. Users can see all upcoming events , results and teams in their favorite leagues. Every team in any league has its own details like stadium , badge , jersey , description , players and all social media platforms like its own website , facebook , instagram and twitter accounts.
 
 ---
@@ -66,7 +72,9 @@
 
 🧐 I’m currently learning and updating my skills in iOS development.
 
-**Connect with me:**
+---
+
+### Connect with me
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="40"/>](mailto:mohamed.saad.khalfallah@gmail.com)
 [<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/mohamed-saad-aboasal/)
