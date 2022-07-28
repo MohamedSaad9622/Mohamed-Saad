@@ -64,7 +64,7 @@
 <h1>
 </h1>
 
-⚽️ [Sports App](https://github.com/MohamedSaad9622/Sports-App) -> Mobile application that views all sports in a specific country. Users can choose their favorite leagues from various sports and various countries. Users can see all upcoming events , results and teams in their favorite leagues. Every team in any league has its own details like stadium , badge , jersey , description , players and all social media platforms like its own website , facebook , instagram and twitter accounts.
+⚽️ [Sports App](https://github.com/MohamedSaad9622/Sports-App) -> Mobile application that views all sports in a specific country. Users can choose their favorite leagues from various sports and various countries. Users can see all upcoming events , results and teams in their favorite leagues. Every team in any league has its own details like stadium , badge , jersey , description , players and all social media platforms like its own website, facebook, instagram and twitter accounts.
 
 ---
 
