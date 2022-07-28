@@ -34,7 +34,6 @@
   <img src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" title="C" alt="C" width="60" height="60"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" **alt="C++" width="60" height="60"/>&nbsp;
   <img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" title="Swift" alt="Swift" width="60" height="60"/>&nbsp;
-  <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" title="Objective C" alt="Objective C" width="60" height="60"/>&nbsp;
 <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" title="Git" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://linuxnewbieguide.org/wp-content/uploads/2017/03/github-logo.png" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp;
   <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/70/04/f2/7004f2e7-5a89-4d71-22e4-016c6a8594c1/Xcode-85-220-0-4-2x.png/1200x630bb.png" title="xcode" alt="xcode" width="60" height="60"/>&nbsp;
@@ -56,19 +55,18 @@
 
 ### My Repositories:
 
-**Swift:**
 
 👕 [Megamart](https://github.com/MohamedSaad9622/Megamart) -> E-Commerce application that's based on Shopify API. We designed this app to provide our customers with all functionality and features they will need with the simplest UI to make them have fun shopping in our application.
 
 ⚽️ [Sports App](https://github.com/MohamedSaad9622/Sports-App) -> Mobile application that views all sports in a specific country. Users can choose their favorite leagues from various sports and various countries. Users can see all upcoming events , results and teams in their favorite leagues. Every team in any league has its own details like stadium , badge , jersey , description , players and all social media platforms like its own website , facebook , instagram and twitter accounts.
 
+---
 
-**Objective-C:**
+### What I've been up to...
 
-🌍 [Todo-List](https://github.com/MohamedSaad9622/Megamart) -> Simple mobile application to save colleagues info. Using MapKit to get and view location on map.
+🧐 I’m currently learning and updating my skills in iOS development.
 
-📝 [Todo-List](https://github.com/MohamedSaad9622/Megamart) -> Mobile Application to make your own todo-list. You can set your todo item and set a reminder by time. When you start your todo item it moves into the progress list. When you finish your work you select this item as finished and it moves into the Done list.
+**Connect with me:**
 
-🧮 [Todo-List](https://github.com/MohamedSaad9622/Megamart)r -> Simple calculator app with all functionalities. New stylish and elegant design.
-
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="60" height="60"/>](mailto:mohamed.saad.khalfallah@gmail.com)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" width="60" height="60"/>](https://www.linkedin.com/in/mohamed-saad-aboasal/)
