@@ -26,5 +26,11 @@
 **Job Title:** iOS Application Developer
 **Personal Resume:** [RESUME](https://drive.google.com/file/d/1gP3Hr1rXDNfckfwIWoACsi-nI9RyFduV/view?usp=sharing) 📄
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-saad-aboasal/)
+---
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
