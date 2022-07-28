@@ -41,4 +41,4 @@
 
 </div>
 
-![Alt text]([/posts/path/to/img.jpg "Optional title"](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg))
+[](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
