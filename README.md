@@ -46,3 +46,8 @@
   <img src="https://assets.website-files.com/5ffa05c4703955241d53a29d/6006fdf808a3371bbd02c5a3_cdlogo.png" title="core data" alt="core data" width="80" height="60"/>&nbsp;
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
