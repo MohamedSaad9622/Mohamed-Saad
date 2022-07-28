@@ -75,6 +75,7 @@
 ### :fire: My Repositories:
 
 <span style= color: "green"> Some green text </span>
+- ![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) `#1589F0`
 
 👕  <span style= color:blue > Megamart </span> -> '#ffffff' E-Commerce application that's based on Shopify API. We designed this app to provide our customers with all functionality and features they will need with the simplest UI to make them have fun shopping in our application.
 
