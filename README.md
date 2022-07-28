@@ -36,7 +36,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
   
-  <img src="https://git-scm.com/" title="Git2222" **alt="Git" width="40" height="40"/>
+  <img src="https://www.pngegg.com/en/png-exxsi" title="C++" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
 </div>
