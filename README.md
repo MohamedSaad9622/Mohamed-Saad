@@ -35,8 +35,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/S/swift-logo-E9182990F5-seeklogo.com.png" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" title="Objective C" alt="Objective C" width="40" height="40"/>&nbsp;
-
-  <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://linuxnewbieguide.org/wp-content/uploads/2017/03/github-logo.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://is5-ssl.mzstatic.com/image/thumb/Purple112/v4/70/04/f2/7004f2e7-5a89-4d71-22e4-016c6a8594c1/Xcode-85-220-0-4-2x.png/1200x630bb.png" title="xcode" alt="xcode" width="40" height="40"/>&nbsp;
   <img src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" title="firebase" alt="firebase" width="40" height="40"/>&nbsp;
