@@ -26,8 +26,9 @@ Name: Mohamed Saad Khalf-Allah 👨‍💻
 
 Job Title: iOS Application Developer
 
-Personal Resume: <div id="badges" >
+<div id="badges" >
     <a href="https://www.linkedin.com/in/mohamed-saad-aboasal/">
+      Personal Resume: 
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
