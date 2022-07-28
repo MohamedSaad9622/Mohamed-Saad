@@ -29,7 +29,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![alt text](https://www.pngegg.com/en/png-exxsi)
+![](https://www.pngegg.com/en/png-exxsi)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
