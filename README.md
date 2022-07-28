@@ -40,3 +40,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="firebase" **alt="firebase" width="40" height="40"/>&nbsp;
 
 </div>
+
+![Alt text]([/posts/path/to/img.jpg "Optional title"](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg))
