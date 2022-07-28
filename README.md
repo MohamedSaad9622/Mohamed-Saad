@@ -68,5 +68,5 @@
 
 **Connect with me:**
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="60" height="60"/>](mailto:mohamed.saad.khalfallah@gmail.com)
-[<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" width="60" height="60"/>](https://www.linkedin.com/in/mohamed-saad-aboasal/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40" height="40"/>](mailto:mohamed.saad.khalfallah@gmail.com)
+[<img src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" width="40" height="40"/>](https://www.linkedin.com/in/mohamed-saad-aboasal/)
