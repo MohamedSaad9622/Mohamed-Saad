@@ -24,7 +24,7 @@
 
 **Job Title:** iOS Application Developer
 
-**Personal Resume:** [RESUME](https://drive.google.com/file/d/1pgq6DP6ecj2wUrmnJAvYa50RXZzjht-V/view?usp=sharing) 📄
+**Personal Resume:** [RESUME](https://drive.google.com/drive/u/0/folders/1Z-I2qEBRzHqJer_3RTEL84VbGc5xossm) 📄
 
 ---
 
