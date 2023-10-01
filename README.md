@@ -22,7 +22,7 @@
 
 **Name:** Mohamed Saad Khalf-Allah 👨‍💻
 
-**Job Title:** iOS Application Developer
+**Job Title:** iOS Developer
 
 **Personal Resume:** [RESUME](https://drive.google.com/file/d/1LsiAylHXEID1p5JxJn4GXYbrXbzOs-Ww/view?usp=share_link) 📄
 
